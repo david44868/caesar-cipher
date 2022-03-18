@@ -1,12 +1,11 @@
 # caesar-cipher
 Encodes or decodes given the string and shift number
 
-- Example: 
-
-**Type 'encode' to encrypt, type 'decode' to decrypt:
-encode
-Type your message:
-wow
-Type the shift number:
-3
-The encoded text is zrz**
+- Example: <br />
+**Type 'encode' to encrypt, type 'decode' to decrypt: <br />
+encode <br />
+Type your message: <br />
+wow <br />
+Type the shift number: <br />
+3 <br />
+The encoded text is zrz** 
