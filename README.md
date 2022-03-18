@@ -2,6 +2,7 @@
 Encodes or decodes given the string and shift number
 
 - Example: 
+
 **Type 'encode' to encrypt, type 'decode' to decrypt:
 encode
 Type your message:
